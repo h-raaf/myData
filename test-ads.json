@@ -1,56 +1,106 @@
-{
-	  "GuideData": {
-    "AdsController": 
-      {
-		  
-        "BannerAd": "admob",
-        "InterstitialAd": "admob",
-        "NativeAd": "admob",
-	      
-	 "MyPromo": "no",
-	      
-	"FirstBanner": "facebook",
-        "MainBanner":  "facebook",
-	      
-      	"InterBtn1": "admob",
-        "InterBtn2": "admob",
-        "InterBtn3": "admob",
-        "InterBtn4": "admob",
-        "InterBtn5": "admob",
-        "InterBtn7": "admob",
-        "InterBtn8": "admob",
-        "InterBtn9": "admob",
-        "InterBtn10": "admob",
-
-       	"FirstNative": "facebook",
-        "MainNative": "facebook",
-		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-	"OpenAdmob": "ca-app-pub-3940256099942544/3419835294",
-	     
-	"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
-        "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
-        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
-		
-		"MaxBanner" : "31eb8c84153b5dda",
-		"MaxInter" : "a74f76060116d011",
-		"MaxNative" : "2e9ad01bf5a80e28",
-		
-		"ironsource_appKey": "1011dee21",
-		
-		"unity_game_id": "3883855",
-		"unity_test": true,
-		"unity_banner": "banner",
-		"unity_interstitial": "video",
-		
-        "Cpa": false,
-        "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://cpabuild.com/",
-	      
-         "intersitial_click_counter": 3
-	      
-      }	  
-	      }	  
-	  }
+	
+ironsource_app_key	"xxxx"
+ironsource_banner_id	"xxxx"
+ironsource_interstitial_id	"xxxx"
+ironsource_rewarded_id	"xxxx"
+applovin_banner_id	"YOUR_AD_UNIT_ID"
+applovin_interstitial_id	"YOUR_AD_UNIT_ID"
+applovin_native_id	"YOUR_AD_UNIT_ID"
+applovin_rewarded_id	"YOUR_AD_UNIT_ID"
+max	true
+unity_banner_id	"xxxx"
+unity_interstitial_id	"xxxx"
+unity_rewarded_id	"xxxx"
+unity_app_id	"xxxx"
+is_unity_test_mode	true
+admob_banner	"ca-app-pub-3940256099942544/6300978111"
+admob_interstitial	"ca-app-pub-3940256099942544/1033173712"
+admob_native	"ca-app-pub-3940256099942544/2247696110"
+admob_rewarded	"ca-app-pub-3940256099942544/5224354917"
+facebook_banner	"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+facebook_interstitial	"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+facebook_native	"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID"
+facebook_rewarded	"VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID"
+Interstitial	"admob"
+Banner	"admob"
+Native	"applovin"
+Rewarded	"facebook"
+clicks_to_show_inter	1
+native_rate	2
+rating_exit_popup	true
+onesignal_id	"xxxxxxx"
+app_suspended	false
+suspended_title	"A new update for this app is available."
+suspended_message	"Update this app because this version has some issues."
+suspended_URL	"xxxx"
+guides	
+0	
+image	"https://assets.pikiran-rakyat.com/crop/3x0:655x492/x/photo/2023/04/11/3097377855.png"
+title	"Demon Slayer: Swordsmith Village Arc"
+text	"Tanjiro journeys to a village of swordsmiths and has to explain how his sword was so badly damaged to Hotaru Haganezuka, the smith who made it. While Tanjiro waits for his sword to be repaired, enemies close in."
+text_two	"The Mist Hashira, Muichiro Tokito, engages the demons, but he'll need some help from Tanjiro and Genya, another Demon Slayer. It's bad enough that they have to fight two upper-rank demons, but can they handle a foe who can split itself into four separate bodies and regenerate almost instantly?"
+isLocked	true
+id	1
+1	
+image	"https://images.squarespace-cdn.com/content/v1/5ace4845e17ba35c9d8eb95e/8373d05a-821e-415d-afbc-ea967d21c5b9/gabimaru+and+sagiri+cover.PNG?format=1500w"
+title	"Hell's Paradise: Jigokuraku"
+text	"Gabimaru the Hollow is one of the most vicious assassins ever to come out of the ninja village of Iwagakure. He’s ruthlessly efficient, but a betrayal results in him being handed a death sentence."
+text_two	"He has only one hope—in order to earn his freedom, he must travel to a long-hidden island and recover an elixir that will make the shogun immortal. Failure is not an option. On this island, heaven and hell are just a hair’s breadth away."
+isLocked	false
+id	2
+2	
+image	"https://i.postimg.cc/BZYq7qsk/Web-capture-13-5-2023-3452-www-oshi-no-ko-online.jpg"
+title	"Oshi no Ko"
+text	"Oshi no Ko (【推しの子】, “Favorite Girl” or “My Idol’s Child”) is a Japanese manga series written by Aka Akasaka and illustrated by Mengo Yokoyari. It has been serialized in Shueisha’s Weekly Young Jump since April 2020, with its chapters collected in three tankōbon volumes as of February 2021."
+text_two	"Story : \n\n  The story begins with a beautiful girl, her perfectly fake smile, and the people who love her selfishly for it. \n\n  What transpires behind the scenes of the glittering showbiz industry? How far would you go for the sake of your beloved idol? What would you do if you found out reincarnation was real? The star of the show is Aquamarine Hoshino and the stage is but a mere facade. Will he manage to reach the climax before the world of glamour swallows him whole?"
+isLocked	false
+id	3
+3	
+image	"https://external-preview.redd.it/rdcRsX9WtqRP9Ki5wD8fnleU2v8zob02gIoOgkVpm5Y.jpg?auto=webp&s=4b6c7640609066b6a912d0d85b1091ff9f606d88"
+title	"Vinland Saga (Season 2)"
+text	"Vinland Saga (ヴィンランド・サガ), an epic adventure anime series that is especially popular overseas, came back in the beginning of 2023."
+text_two	"After the 2019 first anime adaptation based on its original manga series serialized since 2005, the new season is made by Mappa, which is also famous for Chainsaw Man and Jujutsu Kaisen. The second season enters a new story arc following the young Viking protagonist Thorfinn, who lost his purpose in life after his long-standing enemy Askeladd died."
+isLocked	true
+id	4
+4	
+image	"https://i0.wp.com/erzat.blog/wp-content/uploads/2022/08/Isekai-de-Cheat-Skill-wo-Te-ni-Shita-Ore-wa-Genjitsu-Sekai-wo-mo-Musou-Suru-Level-Up-wa-Jinsei-wo-Kaeta-Vol.-11-1-e1661442860778.jpg?fit=1057%2C596&ssl=1"
+title	"Isekai de Cheat Skill wo Te ni Shita Ore wa"
+text	"Tenjou Yuuya has been a bullied boy since the past. He lives in the home of his beloved grandfather while he goes to school. As usual, he receives a harsh bullying, and he takes an extended absence from school to have some time to heal his wounds."
+text_two	"While on this long time of absence, he takes the opportunity to clean his grandfather's house and goes to a room he never went before, where his grandfather keep many different objects that he gathered from his travels around the world. While he was arranging the objects, he found a door not on a wall among the objects. \n\n  Out of curiosity he opens this door, what he found on the other side was..."
+isLocked	false
+id	5
+5	
+image	"https://i.postimg.cc/66SsC0tP/solo-leveling.jpg"
+title	"Solo Leveling"
+text	"An upcoming Solo Leveling anime is confirmed by Crunchyroll! It was announced during Crunchyroll’s Anime Expo 2022 Industry Panel. \n\n  A-1 Pictures (Sword Art Online, Kaguya-sama: Love is War) is animating the series. Shunsuke Nakashige (Sword Art Online: Alicization) is directing the series and Tomoko Sudo (Alice in Borderland OVA) is doing the character designs. Hiroyuki Sawano (Attack on Titan, Kill la Kill) is composing and writing the music for Solo Leveling. \n\n  DUBU, who created the manhwa, had the following to say about the upcoming adaptation, Solo Leveling is finally making its anime debut. It feels like only yesterday that we got the offer for the anime adaptation."
+text_two	"I feel so overwhelmed when I think that the anime is really being created right now. This is all thanks to you fans who love and support Solo Leveling. I'm filled with gratitude. \n\n  Solo Leveling follows the weakest hunter Jinwoo Sung, who despite this fact, continues to head out on raids because he needs to find a way to pay for his family's growing debt. His party stumbles into trouble one day when they come face-to-face with a being whose power outranks anything he’s ever seen. While fighting for his life, the System offers him an unexpected chance to become a 'Player,' which opens him up to a whole new world of possibilities."
+isLocked	false
+id	6
+6	
+image	"https://i.postimg.cc/MKDyhsHP/Mashle-Magic-and-Muscles-Chapter-7-Spoilers-Release-Date-and-Time.jpg"
+title	"Mashle"
+text	"Mashle is about a magic-less guy named Mash, who lives in a magical world. What he lacks in magic though, he makes up for in brute strength. \n\n  Magic is everything in the world of Mashle and those with the best magic skills have the highest social status."
+text_two	"Deep in the forest lives Mash, who has been training for years and is now incredibly fit. However, he has no idea that there’s a whole world outside of his forest home. \n\n  When he’s discovered and is forced to attend magic school, he’ll need to compete with his fellow students in order to become one of the Divine Visionaries—students at the top of their class who are revered by everyone. But since Mash doesn't know how to use magic at all, it looks like he'll be forced to fight his way to the top instead."
+isLocked	false
+id	7
+7	
+title	"Tomo-chan Is a Girl!"
+image	"https://i.postimg.cc/JnFk1gZm/69dbccfe235cb864d00f36324c3a9cf806c689d4-hq.jpg"
+text	"Tomo and Jun have been best buds since they were little kids, but now that they’re in high school, Tomo wants to be more than friends..."
+text_two	"too bad Jun just sees her as ‘one of the guys.’ Tomo may be a tomboy, but she’s determined to prove to Jun that she’s a woman, too."
+isLocked	false
+id	8
+8	
+title	"My Life as Inukai-san's Dog"
+image	"https://i.postimg.cc/3JR5PxFP/hqdefault.jpg"
+text	"Inu ni Nattara Suki na Hito ni Hirowareta (My Life as Inukai-san's Dog)"
+text_two	"is an ecchi comedy and it tells the story of a girl named Karen Inukai who loves dogs so much that she turns her classmate into one."
+isLocked	false
+id	9
+9	
+title	"Blue Orchestra"
+image	"https://i.postimg.cc/HWRYTMvQ/Capture-d-cran-2022-10-15-145455.png"
+text	"Hajime Aono was raised to be a violin prodigy, winning countless awards and dominating competitions. But he gave up on the violin during his second year of middle school. One day, Ritsuko Akine inspires him to take up the violin again."
+text_two	"He decides to go to a high school with a famous orchestra club. With the help of Akine and his new clubmates, he learns to love the violin again."
+isLocked	false
+id	10
